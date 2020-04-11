@@ -21,14 +21,14 @@ namespace Library.Data
                     Id=new Guid("72D5B5F5-3008-49B7-B0D6-CC337F1A3330"),
                     Name="Author 1",
                     Age=46,
-                    Emain="sdai222797@xxx.com"
+                    Email="sdai222797@xxx.com"
                 },
                 new AuthorDto
                 {
                     Id=new Guid("7D04A48E-BE4E-468E-8CE2-3AC0A0C79549"),
                     Name="Author 2",
                     Age=43,
-                    Emain="231151347@xxx.com"
+                    Email="231151347@xxx.com"
                 }
 
             };

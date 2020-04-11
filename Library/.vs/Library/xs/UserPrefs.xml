@@ -1,23 +1,41 @@
 ﻿<Properties StartupConfiguration="{FA4947D4-7B20-4AFE-A566-1B9957A6A150}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Library/Models/AuthorForCreationDto.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/Controllers/AuthorController.cs">
     <Files>
       <File FileName="Library/Controllers/BookController.cs" Line="1" Column="1" />
       <File FileName="Library/Startup.cs" Line="1" Column="1" />
       <File FileName="Library/Models/AuthorDto.cs" Line="1" Column="1" />
-      <File FileName="Library/Models/AuthorForCreationDto.cs" Line="11" Column="1" />
+      <File FileName="Library/Models/AuthorForCreationDto.cs" Line="17" Column="1" />
       <File FileName="Library/Models/BookDto.cs" Line="1" Column="1" />
+      <File FileName="Library/Services/IAuthorReponsitory.cs" Line="10" Column="22" />
+      <File FileName="Library/Services/IRepsitoryWrapper.cs" Line="7" Column="9" />
+      <File FileName="Library/Services/RepositoryWrapper.cs" Line="8" Column="17" />
+      <File FileName="Library/Services/AuthorRepository.cs" Line="13" Column="73" />
+      <File FileName="Library/Models/BookForCreationDto.cs" Line="10" Column="37" />
+      <File FileName="Library/Services/IBookRepository.cs" Line="17" Column="1" />
+      <File FileName="Library/Services/BookRepository.cs" Line="32" Column="1" />
+      <File FileName="Library/Data/LibraryMockData.cs" Line="31" Column="26" />
+      <File FileName="Library/Helper/LibraryMappingProfile.cs" Line="20" Column="1" />
+      <File FileName="Library/Controllers/AuthorController.cs" Line="71" Column="31" />
+      <File FileName="Library/Helper/AuthorresourceParameters.cs" Line="14" Column="73" />
+      <File FileName="Library/Helper/PageList.cs" Line="14" Column="29" />
+      <File FileName="Library/Services/AuthorMockReponsitory.cs" Line="13" Column="53" />
+      <File FileName="Library/Services/IRepositoryBase2.cs" Line="1" Column="1" />
+      <File FileName="Library/Services/IRepositoryBase.cs" Line="1" Column="1" />
+      <File FileName="Library/Services/BookMockReponsitory.cs" Line="1" Column="1" />
+      <File FileName="Library/Properties/launchSettings.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Library" expanded="True">
             <Node name="Library" expanded="True">
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="AuthorController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
               <Node name="Entities" expanded="True" />
               <Node name="Helper" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="AuthorForCreationDto.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
               <Node name="Services" expanded="True" />
             </Node>

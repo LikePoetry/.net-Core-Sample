@@ -12,6 +12,8 @@ namespace Library.Helper
             CreateMap<Author, AuthorDto>().ForMember(dest => dest.Age, config =>
                config.MapFrom(src => src.BirthData.GetHashCode()));
             CreateMap<Book, BookDto>();
+            CreateMap<BookForCreationDto, Book>();
+            CreateMap<AuthorForCreationDto, Author>();
         }
     }
 }
