@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{8E242F03-9B85-4A1C-8D56-04E9BFDD3277}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestServerDemo/Startup.cs">
+    <Files>
+      <File FileName="TestServerDemo/WeatherForecast.cs" Line="13" Column="1" />
+      <File FileName="TestServerDemo/Startup.cs" Line="29" Column="1" />
+      <File FileName="TestServerDemo/Program.cs" Line="27" Column="1" />
+      <File FileName="TestServerDemo/Controllers/WeatherForecastController.cs" />
+      <File FileName="TestServerDemo/Properties/launchSettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestServerDemo" expanded="True" selected="True">
+            <Node name="TestServerDemo" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestServerDemo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/pananma/Projects/TestServerDemo/TestServerDemo/Startup.cs" relfile="TestServerDemo/Startup.cs" line="17" column="1" />
+      <Breakpoint file="/Users/pananma/Projects/TestServerDemo/TestServerDemo/Controllers/WeatherForecastController.cs" relfile="TestServerDemo/Controllers/WeatherForecastController.cs" line="22" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

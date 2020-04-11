@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{FA4947D4-7B20-4AFE-A566-1B9957A6A150}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/Models/AuthorForCreationDto.cs">
+    <Files>
+      <File FileName="Library/Controllers/BookController.cs" Line="1" Column="1" />
+      <File FileName="Library/Startup.cs" Line="1" Column="1" />
+      <File FileName="Library/Models/AuthorDto.cs" Line="1" Column="1" />
+      <File FileName="Library/Models/AuthorForCreationDto.cs" Line="11" Column="1" />
+      <File FileName="Library/Models/BookDto.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Library" expanded="True">
+            <Node name="Library" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Helper" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="AuthorForCreationDto.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Library PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
